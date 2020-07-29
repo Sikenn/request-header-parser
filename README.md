@@ -9,7 +9,7 @@ system infos (fromheader User-Agent) for my device.
 
 ## Example Usage
 
-[base_url/api/whoami](base_url/api/whoami)
+[https://request-header-parser-sk.herokuapp.com/api/whoami](https://request-header-parser-sk.herokuapp.com/api/whoami)
 
 ## Example Output
 
